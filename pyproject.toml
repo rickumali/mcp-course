@@ -5,7 +5,7 @@ description = "MCP Course projects"
 requires-python = ">=3.11, <3.14"
 dependencies = [
     # Pin click
-    click=="8.1.7",
+    "click==8.1.7",
     # From binance-mcp
     "mcp[cli]==1.9.2",
     "requests==2.32.3", # Also for llm-tool-use
