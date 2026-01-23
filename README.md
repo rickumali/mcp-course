@@ -1,3 +1,12 @@
+# README
+
+This repository is a clone/copy of this project:
+
+https://github.com/nordquant/mcp-course
+
+The commits made here after commit 4014d5ff are done by myself 
+as I progressed through the course.
+
 # The Hands On MCP (Model Context Protocol) Bootcamp
 
 [-> Visit the Course on Udemy](https://www.udemy.com/course/learn-mcp-model-context-protocol-course-and-a2a-bootcamphands-hands-on/?referralCode=4BB6FF5CE336B4460CDA)
