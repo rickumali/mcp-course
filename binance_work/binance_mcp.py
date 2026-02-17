@@ -33,4 +33,4 @@ def get_price(symbol: str) -> Any:
 
 
 if __name__ == "__main__":
-    mcp.run()
+    mcp.run(transport="stdio")
